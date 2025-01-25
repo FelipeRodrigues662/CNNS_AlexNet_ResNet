@@ -95,7 +95,7 @@ Certifique-se de ter as seguintes dependências instaladas no ambiente de execu�
 
 **Link do relatório completo**:
 
-- [Relatório Projeto Final Visão Computacional](/CNNS_AlexNet_ResNet/Relatório/RelatórioSIN393_ProjetoFinal__7633_7610_6335_.pdf)
+- [Relatório Projeto Final Visão Computacional](./Relatório/RelatórioSIN393_ProjetoFinal__7633_7610_6335_.pdf)
 
 **Link do vídeo de apresentação**:
 
