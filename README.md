@@ -99,7 +99,7 @@ Certifique-se de ter as seguintes dependências instaladas no ambiente de execu�
 
 **Link do vídeo de apresentação**:
 
-- [Link do vídeo da apresentação no Youtube](https://www.youtube.com)
+- [Link do vídeo da apresentação no Youtube](https://www.youtube.com/watch?v=HC3TKwSh180)
 
 ---
 
